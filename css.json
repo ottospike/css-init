@@ -1,0 +1,21 @@
+{
+  "Init my CSS": {
+    "prefix": "init",
+    "body": [
+      "/*REMEMBER TO CONVERT 10px ==> 1rem*/",
+      "* {",
+      "\tmargin: 0;",
+      "\tpadding: 0;",
+      "\tbox-sizing: border-box;",
+      "}",
+      ":root {",
+      "\tfont-size: 62.5%;",
+      "}",
+      "body {",
+      "\tfont-size: 1.6rem;$1",
+      "}",
+      "/*REMEMBER TO CONVERT 10px ==> 1rem*/"
+    ],
+    "description": "INITIALIZE CSS"
+  }
+}
